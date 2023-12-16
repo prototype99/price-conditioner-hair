@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gnm:Workbook xmlns:gnm="http://www.gnumeric.org/v10.dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gnumeric.org/v9.xsd">
-  <gnm:Version Epoch="1" Major="12" Minor="55" Full="1.12.55"/>
+  <gnm:Version Epoch="1" Major="12" Minor="56" Full="1.12.56"/>
   <gnm:Attributes>
     <gnm:Attribute>
       <gnm:name>WorkbookView::show_horizontal_scrollbar</gnm:name>
@@ -25,7 +25,7 @@
   </gnm:Attributes>
   <office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:ooo="http://openoffice.org/2004/office" office:version="1.2">
     <office:meta>
-      <dc:date>2023-09-19T22:43:31Z</dc:date>
+      <dc:date>2023-12-16T14:07:26Z</dc:date>
       <meta:creation-date>2023-09-19T22:34:23Z</meta:creation-date>
     </office:meta>
   </office:document-meta>
@@ -109,8 +109,8 @@
         <gnm:ColInfo No="4" Unit="467.2"/>
       </gnm:Cols>
       <gnm:Rows DefaultSizePts="15"/>
-      <gnm:Selections CursorCol="4" CursorRow="3">
-        <gnm:Selection startCol="4" startRow="3" endCol="4" endRow="3"/>
+      <gnm:Selections CursorCol="2" CursorRow="8">
+        <gnm:Selection startCol="2" startRow="8" endCol="2" endRow="8"/>
       </gnm:Selections>
       <gnm:Cells>
         <gnm:Cell Row="0" Col="0" ValueType="60">type</gnm:Cell>
@@ -125,7 +125,7 @@
         <gnm:Cell Row="1" Col="4" ValueType="60">https://groceries.morrisons.com/products/alberto-balsam-juicy-green-apple-conditioner-310991011</gnm:Cell>
         <gnm:Cell Row="2" Col="0" ValueType="60">apple</gnm:Cell>
         <gnm:Cell Row="2" Col="1" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="2" Col="2" ValueType="40">0.94999999999999996</gnm:Cell>
+        <gnm:Cell Row="2" Col="2" ValueType="40">0.98999999999999999</gnm:Cell>
         <gnm:Cell Row="2" Col="3" ExprID="1"/>
         <gnm:Cell Row="2" Col="4" ValueType="60">https://www.tesco.com/groceries/en-GB/products/291195922</gnm:Cell>
         <gnm:Cell Row="3" Col="0" ValueType="60">coconut</gnm:Cell>
@@ -135,7 +135,7 @@
         <gnm:Cell Row="3" Col="4" ValueType="60">https://groceries.morrisons.com/products/alberto-balsam-coconut-lychee-conditioner-310992011</gnm:Cell>
         <gnm:Cell Row="4" Col="0" ValueType="60">coconut</gnm:Cell>
         <gnm:Cell Row="4" Col="1" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="4" Col="2" ValueType="40">0.94999999999999996</gnm:Cell>
+        <gnm:Cell Row="4" Col="2" ValueType="40">0.98999999999999999</gnm:Cell>
         <gnm:Cell Row="4" Col="3" ExprID="1"/>
         <gnm:Cell Row="4" Col="4" ValueType="60">https://www.tesco.com/groceries/en-GB/products/291196057</gnm:Cell>
         <gnm:Cell Row="5" Col="0" ValueType="60">raspberry</gnm:Cell>
@@ -145,7 +145,7 @@
         <gnm:Cell Row="5" Col="4" ValueType="60">https://groceries.morrisons.com/products/alberto-balsam-raspberry-conditioner-310995011</gnm:Cell>
         <gnm:Cell Row="6" Col="0" ValueType="60">raspberry</gnm:Cell>
         <gnm:Cell Row="6" Col="1" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="6" Col="2" ValueType="40">0.94999999999999996</gnm:Cell>
+        <gnm:Cell Row="6" Col="2" ValueType="40">0.98999999999999999</gnm:Cell>
         <gnm:Cell Row="6" Col="3" ExprID="1"/>
         <gnm:Cell Row="6" Col="4" ValueType="60">https://www.tesco.com/groceries/en-GB/products/291195997</gnm:Cell>
         <gnm:Cell Row="7" Col="0" ValueType="60">tea tree</gnm:Cell>
@@ -155,7 +155,7 @@
         <gnm:Cell Row="7" Col="4" ValueType="60">https://groceries.morrisons.com/products/alberto-balsam-tea-tree-tingle-conditioner-310996011</gnm:Cell>
         <gnm:Cell Row="8" Col="0" ValueType="60">tea tree</gnm:Cell>
         <gnm:Cell Row="8" Col="1" ValueType="40">1</gnm:Cell>
-        <gnm:Cell Row="8" Col="2" ValueType="40">0.94999999999999996</gnm:Cell>
+        <gnm:Cell Row="8" Col="2" ValueType="40">0.98999999999999999</gnm:Cell>
         <gnm:Cell Row="8" Col="3" ExprID="1"/>
         <gnm:Cell Row="8" Col="4" ValueType="60">https://www.tesco.com/groceries/en-GB/products/291195853</gnm:Cell>
       </gnm:Cells>
